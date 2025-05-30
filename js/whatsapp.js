@@ -13,7 +13,7 @@ const formulario = document.querySelector('#formulario');
 const buttonSubmit = document.querySelector('#submit');
 const urlDesktop = 'https://web.whatsapp.com/';
 const urlMobile = 'whatsapp://';
-const telefono = '541138624909';
+const telefono = '541135736875';
 
 formulario.addEventListener('submit', (event) => {
     event.preventDefault()

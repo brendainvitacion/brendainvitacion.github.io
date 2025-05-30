@@ -13,7 +13,7 @@ const formu = document.querySelector('#canciones');
 const buttonSubmit2 = document.querySelector('#submit1');
 const urlDesktop2 = 'https://web.whatsapp.com/';
 const urlMobile2 = 'whatsapp://';
-const telefono2 = '541138624909';
+const telefono2 = '541135736875';
 
 formu.addEventListener('submit', (event) => {
     event.preventDefault()
